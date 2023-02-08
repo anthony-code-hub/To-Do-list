@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/JosefinSans-Italic-VariableFont_wght.ttf",
+      "sha1": "d25a5e04286181f32a4772672e599194e2079b4e"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-VariableFont_wght.ttf",
+      "sha1": "15d8cb4a07c50fc77bd192dcb7526d3c484ec855"
+    },
+    {
+      "path": "assets/fonts/LaBelleAurore-Regular.ttf",
+      "sha1": "c2754389eef05841c6746eee112d5d555e9e302b"
+    },
+    {
+      "path": "assets/fonts/RubikVinyl-Regular.ttf",
+      "sha1": "46da720f71d14815846c71bf5d0044d14810680b"
+    }
+  ]
+}
